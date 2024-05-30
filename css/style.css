@@ -568,7 +568,7 @@ text-align: center;
     margin: auto;
 }
 .redes a {
-  display: flex;
+  display: inline-block;
   min-height: 40px;
   width: 40px;
   margin: 0 15px 10px 0;
